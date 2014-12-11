@@ -475,6 +475,9 @@ header h2 {
   margin-top: 0;
   margin-bottom: 0;
 }
+header h3 {
+   color: #F44336;
+}
 
 .inner {
   position: relative;
