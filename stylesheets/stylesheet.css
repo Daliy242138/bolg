@@ -687,7 +687,6 @@ h4:before {
   text-indent: 3px;
 }
 h5:before {
-  content: "/////";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -3.2em;
